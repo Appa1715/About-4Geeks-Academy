@@ -1,0 +1,113 @@
+template: "online-cv"
+skin: "orange"
+
+basic_info:
+
+
+    first_name: Kristel
+    last_name: Corrales
+    
+    
+    motto: Dedication, learning, caring, helping, active
+    
+    
+    focus: Learning from my own mistakes and moving on. 
+    
+    
+    summary: |
+      A young, kind and active person, who likes assiting people with everything within her hands. 
+      I am always looking ways to improve myself and be a better version of me. I love learning new things.
+      Moreover, I'm proactive, good at working under pressure and control my emotions. 
+
+    
+   
+    avatar: https://media-exp1.licdn.com/dms/image/C4D03AQFWMVa6qahy5Q/profile-displayphoto-shrink_800_800/0/1596661064076?e=1617840000&v=beta&t=QGteJrxLl5jsPF79co8hcdmaHF24LK0Bl-O7cRRhY7g
+
+    
+    email: kristelestercorrales@gmail.com
+    # phone: +506 8894 0467 
+    # website: asd.com 
+    linkedin: https://www.linkedin.com/in/mark-mulville-5a1b2a85/
+    
+    
+    github: Appa1715
+    
+    
+    languages:
+      - idiom: English
+        level: Native
+      - idiom: Italian
+        level: Intermediate
+
+
+    
+    interests:
+      - item: Cooking
+
+      - item: Health & wellness
+
+      - item: Technology and science
+
+
+
+# education:
+#     - degree: Health Services Administration 
+#       university: Florida International University 
+#       # optional
+#       university_logo: https://www.vhv.rs/dpng/d/461-4617822_fiu-panther-logo-png-mascot-florida-international-university.png
+#       time: 2011 - 2015
+#       details: |
+#         Describe your study here lorem ipsum dolor sit amet, consectetuer
+#         adipiscing elit. Aenean commodo ligula eget dolor. Aenean massa. Cum
+#         sociis natoque penatibus et magnis dis parturient montes, nascetur
+#         ridiculus mus. Donec quam felis, ultricies nec, pellentesque eu,
+#         pretium quis, sem.
+
+#           - Bullet point
+#           - Bullet point
+
+
+experiences:
+    - role: Customer service advisor 
+      time: 2023 - Present
+      company: Concentrix
+    
+      # details: |
+      #     - Gives technical support of different products to our customers.
+      #     - Communicates with the customers in an assertive way, always explaining and giving the right expectations.
+      #     - Offers more than two resolutions to our customers.
+      #     - Helps the coworkers in case they need it, based on their necessities.
+      #     - Give assistance in a personalized way, always understanding the customer and the situation they are facing, in order to provide them steps
+
+
+#           - Bullet point
+#           - Bullet point
+
+# # Your project portfolio
+# projects:
+#     intro: >
+#       You can list your side projects or open source libraries in this
+#       section. 
+
+#     assignments:
+#       - title: Instagram post
+#         # optional
+#         project_logo: 
+#         link: "#https://github.com/Appa1715/Appa1715-instagram"
+#         tagline: "A responsive website template designed similar to instagram"
+
+#       - title: PostCard
+#         # optional
+#         project_logo: 
+#         link: "#https://github.com/Appa1715/index.html-new-"
+#         tagline: "A postcard."
+
+# skills:
+#     toolset:  
+#       - name: Javascript & jQuery
+#         level: 40%
+
+#       - name: HTML5 & CSS
+#         level: 85%
+
+
